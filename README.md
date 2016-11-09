@@ -7,8 +7,7 @@ Effective marketing automation is an essential part of successfully scaling and 
 ## Getting Started
 
 
-
-Download the SDK and run `cordova plugin add path_to_repo\plugin\` from the root your project.
+Download the SDK and run `cordova plugin add https://github.com/JohnnySheffield/appboy-cordova-sdk --save` from the root your project.
 
 ### iOS setup
 
